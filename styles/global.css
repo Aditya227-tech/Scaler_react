@@ -1,0 +1,178 @@
+html,
+body, * {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.main-container {
+  max-width: 1400px;
+  margin: auto;
+  width: 100%;
+}
+
+/* Update color values */
+.marquee-text {
+  font-size: 29px;
+  font-weight: 600;
+  margin: 60px 0px;
+  color: #4a90e2; /* New color */
+}
+
+/* Update color values */
+.cart-icon {
+  font-size: 25px;
+  color: #4a90e2; /* New color */
+  cursor: pointer;
+  position: relative;
+  transition: transform .4s ease;
+  border: none;
+  background-color: transparent;
+}
+
+/* Update color values */
+.cart-item-qty {
+  color: #ffffff; /* New color */
+  background-color: #4a90e2; /* New color */
+}
+
+/* Update color values */
+.product-card {
+  color: #008080; /* New color */
+}
+
+/* Update color values */
+.product-card:hover {
+  transform: scale(1.1, 1.1);
+}
+
+/* Update color values */
+.product-image {
+  background-color: #ffd700; /* New color */
+}
+
+/* Update color values */
+.hero-banner-container {
+  background-color: #ff6347; /* New color */
+}
+
+/* Update color values */
+.hero-banner-container .beats-solo {
+  color: #ffffff; /* New color */
+}
+
+/* Update color values */
+.hero-banner-container button {
+  background-color: #4a90e2; /* New color */
+  color: #ffffff; /* New color */
+}
+
+/* Update color values */
+.footer-banner-container {
+  background-color: #008080; /* New color */
+}
+
+/* Update color values */
+.banner-desc button {
+  background-color: #ffffff; /* New color */
+  color: #ff6347; /* New color */
+}
+
+/* Update color values */
+.cart-wrapper {
+  background: rgba(0, 0, 0, 0.7); /* New color */
+}
+
+/* Update color values */
+.cart-container {
+  background-color: #ffffff; /* New color */
+}
+
+/* Update color values */
+.footer-container {
+  color: #008080; /* New color */
+}
+
+/* Update color values */
+.cart-heading {
+  color: #4a90e2; /* New color */
+}
+
+/* Update color values */
+.remove-item {
+  color: #ff6347; /* New color */
+}
+
+/* Update color values */
+.btn {
+  background-color: #ff6347; /* New color */
+  color: #ffffff; /* New color */
+}
+
+/* Update color values */
+.btn:hover {
+  transform: scale(1.1, 1.1);
+}
+
+/* Update color values */
+.product-detail-image:hover {
+  background-color: #ff6347; /* New color */
+}
+
+/* Update color values */
+.small-image {
+  background-color: #ffd700; /* New color */
+}
+
+/* Update color values */
+.selected-image {
+  background-color: #ff6347; /* New color */
+}
+
+/* Update color values */
+.reviews {
+  color: #ff6347; /* New color */
+}
+
+/* Update color values */
+.price .old-price,
+.product-price .old-price,
+.price .old-price {
+  color: #808080; /* New color */
+}
+
+/* Update color values */
+.quantity-desc .minus {
+  color: #4a90e2; /* New color */
+}
+
+/* Update color values */
+.quantity-desc .plus {
+  color: #008080; /* New color */
+}
+
+/* Update color values */
+.maylike-products-wrapper h2 {
+  color: #008080; /* New color */
+}
+
+/* Update color values */
+.success h2 {
+  color: #4caf50; /* New color */
+}
+
+/* Update color values */
+.cancel p {
+  color: #ff6347; /* New color */
+}
